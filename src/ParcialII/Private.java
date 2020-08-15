@@ -1,0 +1,4 @@
+package ParcialII;
+class Private {
+    
+}

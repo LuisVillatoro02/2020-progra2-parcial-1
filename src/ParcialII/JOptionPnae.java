@@ -1,0 +1,5 @@
+package ParcialII;
+
+class JOptionPnae {
+    
+}
